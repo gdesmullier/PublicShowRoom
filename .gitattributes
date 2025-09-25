@@ -1,4 +1,0 @@
-*.data binary
-*.wasm binary
-*.framework.js binary
-*.loader.js binary
